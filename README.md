@@ -61,6 +61,5 @@ A list of talks of the Student Forum in the School of Atmospheric Sciences, Nanj
 2018.06.13|	施尚永		|太平洋经向模（PMM）对印度洋-西太平洋电容器效应的调制——ENSO与PMM的配合
 2018.06.20|	花少烽		|precipitation formation from orographic cloud seeding
 ---|---|---
-___
----
 2018.09.26| 杨博雷，孙世玮  |学生论坛介绍，学生流体实验室介绍
+2018.10.10| 汪梦凌   |Atmospheric blocking as a traffic jam in the jet stream
