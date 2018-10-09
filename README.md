@@ -5,8 +5,9 @@ A list of talks of the Student Forum in the School of Atmospheric Sciences, Nanj
 
 该论坛的前身（在20XXX之前）为“中尺度论坛”，由杨博雷学长号召组织，收到中尺度方向老师们的热心资助。之后得到学院关注和认可，扩展内容，变为“大气科学学生创新论坛”。
 
+## Topic lists
 |  Time  | Speaker | Topic |
-| ---|----|----|
+| :-: | :-: |:-|
 2016.09.05|	杨博雷    |热带对流自聚合
 2016.09.12|	陈刚      |雷达定量降水估算研究进展
 2016.09.19|	花少烽	  |机器学习与神经网络
@@ -22,7 +23,7 @@ A list of talks of the Student Forum in the School of Atmospheric Sciences, Nanj
 2016.12.05|	周博闻		|大气模式边界层
 2016.12.11|	利嘉兆		|位涡反演
 2017.01.05|	傅豪			|基于三维涡方法的Boussinesq近似并行模式设计
-|----|----|----|
+|---|---|---|
 2017.02.28|	张启			|中国区域再分析数据集（CNRR）生成方法初探
 2017.03.14|	杨博雷		|WRF模式的动力框架和应用
 2017.03.28|	黄浩			|双偏振雷达基础应用
@@ -60,4 +61,6 @@ A list of talks of the Student Forum in the School of Atmospheric Sciences, Nanj
 2018.06.13|	施尚永		|太平洋经向模（PMM）对印度洋-西太平洋电容器效应的调制——ENSO与PMM的配合
 2018.06.20|	花少烽		|precipitation formation from orographic cloud seeding
 ---|---|---
+___
+---
 2018.09.26| 杨博雷，孙世玮  |学生论坛介绍，学生流体实验室介绍
