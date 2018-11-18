@@ -3,7 +3,7 @@ A list of talks of the Student Forum in the School of Atmospheric Sciences, Nanj
 
 此处是南京大学大气科学学院 学生创新论坛 的各讨论题目
 
-该论坛的前身（在20XXX之前）为“中尺度论坛”，由杨博雷学长号召组织，收到中尺度方向老师们的热心资助。之后得到学院关注和认可，扩展内容，变为“大气科学学生创新论坛”。
+该论坛的前身（在20XXX之前）为“中尺度论坛”，由杨博雷学长号召组织，得到中尺度方向老师们的热心资助。之后得到学院关注和认可，扩展内容，变为“大气科学学生创新论坛”。
 
 ## Topic lists
 |  Time  | Speaker | Topic |
