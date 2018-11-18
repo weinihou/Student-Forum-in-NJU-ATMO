@@ -65,6 +65,7 @@ A list of talks of the Student Forum in the School of Atmospheric Sciences, Nanj
 2018.10.10| 汪梦凌   |Atmospheric blocking as a traffic jam in the jet stream
 2018.10.17| 李典宜   |The Influences of Orography on Track of Typhoon Megi (2016) past Taiwan as Identified by HWRF
 2018.10.31| 谭鑫     |大气科学的前世今生
+2018.11.14| 鲍名老师  |热带海洋—大气相互作用简介
 
 欢迎小伙伴来分享和讨论，大家一起提高~
 
