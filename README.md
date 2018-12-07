@@ -67,6 +67,7 @@ A list of talks of the Student Forum in the School of Atmospheric Sciences, Nanj
 2018.10.31| 谭鑫     |大气科学的前世今生
 2018.11.14| 鲍名老师  |热带海洋—大气相互作用简介
 2018.11.28| 唐滢，王朋，王梦瑶  |求职经验分享
+2018.12.05| 冯锡斌   |登陆台风降水的简要环境分析
 
 欢迎小伙伴来分享和讨论，大家一起提高~
 
