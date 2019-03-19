@@ -68,6 +68,8 @@ A list of talks of the Student Forum in the School of Atmospheric Sciences, Nanj
 2018.11.14| 鲍名老师  |热带海洋—大气相互作用简介
 2018.11.28| 唐滢，王朋，王梦瑶  |求职经验分享
 2018.12.05| 冯锡斌   |登陆台风降水的简要环境分析
+|---|---|---|
+2019.03.19| 孙世玮   |ARPS模式简介及使用
 
 欢迎小伙伴来分享和讨论，大家一起提高~
 
