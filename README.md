@@ -70,6 +70,7 @@ A list of talks of the Student Forum in the School of Atmospheric Sciences, Nanj
 2018.12.05| 冯锡斌   |登陆台风降水的简要环境分析
 |---|---|---|
 2019.03.19| 孙世玮   |ARPS模式简介及使用
+2019.04.02| 杨博雷   |浅谈大气湿对流：能量与浮力
 
 欢迎小伙伴来分享和讨论，大家一起提高~
 
