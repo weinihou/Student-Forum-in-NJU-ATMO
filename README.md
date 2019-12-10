@@ -75,7 +75,10 @@ A list of talks of the Student Forum in the School of Atmospheric Sciences, Nanj
 2019.05.07| 谭鑫     |西半球环流型维持过程中正压与斜压不稳定发展的相对贡献  及 心得体会分享
 2019.06.11| 郭毅鹏老师 |Westward migration of tropical cyclone rapid intensification over northwestern Pacific during short duration El Nino **（研讨课）**
 |---|---|---|
-2019-11-14| 孙世玮   |中尺度数值模式简介
+2019.11.14| 孙世玮   |中尺度数值模式简介
+2019.11.21| 韩函     |境外污染物远距离传输对东亚对流层臭氧的影响
+2019.12.05| Zachary Hansen |Exploring the Land-Ocean Contrast in Convective Intensity **（研讨课）**
+2019.12.12| 王乐毅   |“人工智能与大气科学”文献分享：Deep learning and process understanding for data-driven Earth system science
 
 
 欢迎小伙伴来分享和讨论，大家一起提高~
