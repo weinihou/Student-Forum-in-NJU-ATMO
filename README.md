@@ -81,5 +81,18 @@ A list of talks of the Student Forum in the School of Atmospheric Sciences, Nanj
 2019.12.12| 王乐毅   |“人工智能与大气科学”文献分享：Deep learning and process understanding for data-driven Earth system science
 
 
-欢迎小伙伴来分享和讨论，大家一起提高~
 
+
+## 报名方式
+
+论坛报告和讨论均可自由参加，地点通常为南京大学大气科学学院院楼讨论教室。
+具体时间地点通知可见公众号：南京大学大气科学学院  (nanda_atmo)
+
+另有南京大学大气科学学生论坛QQ群，QQ群号为：208234915
+本群为**面向学生**的交流讨论群组，为保护学生信息、维护良好学习讨论环境，**不欢迎商业推广**，且**加群需提交详细信息**。
+
+本论坛欢迎各相关领域人员来分享交流，自主报名通讯邮箱：atm_sforum_nju@163.com
+
+
+
+欢迎小伙伴来分享和讨论，大家一起提高~
