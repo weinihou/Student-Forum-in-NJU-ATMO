@@ -79,7 +79,7 @@ A list of talks of the Student Forum in the School of Atmospheric Sciences, Nanj
 2019.11.21| 韩函     |境外污染物远距离传输对东亚对流层臭氧的影响
 2019.12.05| Zachary Hansen |Exploring the Land-Ocean Contrast in Convective Intensity **（研讨课）**
 2019.12.12| 王乐毅   |“人工智能与大气科学”文献分享：Deep learning and process understanding for data-driven Earth system science
-2019.12.18| 汪曙光老师 |Gross Moist Stability和大气对流诊断
+2019.12.18| 汪曙光老师 |Gross Moist Stability和大气对流诊断 **（研讨课）**
 
 
 
