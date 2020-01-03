@@ -81,6 +81,7 @@ A list of talks of the Student Forum in the School of Atmospheric Sciences, Nanj
 2019.12.12| 王乐毅   |“人工智能与大气科学”文献分享：Deep learning and process understanding for data-driven Earth system science
 2019.12.18| 汪曙光老师 |Gross Moist Stability和大气对流诊断 **（研讨课）**
 2019.12.26| 葛杨金晞 |WRF流程控制及代码修改经验分享
+2020.01.02| 蔡骐超   |台风中眼墙冷池对部分内雨带形成的影响
 
 
 
